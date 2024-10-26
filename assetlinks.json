@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.witchmagicwax",
+      "sha256_cert_fingerprints": [
+        "F7:49:53:1F:AA:C1:65:40:EC:CC:D4:25:08:90:E7:F8:CC:E5:8D:4C:2C:CA:33:D8:00:4D:5F:CA:AF:E2:FB:D3"
+      ]
+    }
+  }
+]
